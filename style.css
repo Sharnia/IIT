@@ -43,7 +43,7 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 }
 
 h1 {
-	float: center;
+	text-allign: center;
 	font-size: 1.5em;
 	font-style: bold;
 	color: #000A25;
@@ -51,7 +51,7 @@ h1 {
 }
 
 h2 {
-	float: center;
+	text-allign: center;
 	font-size: 1em;
 	font-stlye: bold;
 	color: #000A25;
