@@ -42,10 +42,13 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 	margin: auto;
 }
 
+.info {
+	text-align: right;
+}
+
 h1 {
-	text-allign: center;
 	font-size: 1.5em;
-	font-style: bold;
+	font-weight: bold;
 	color: #000A25;
 	padding: 30px;
 }
@@ -53,7 +56,7 @@ h1 {
 h2 {
 	text-allign: center;
 	font-size: 1em;
-	font-stlye: bold;
+	font-weight: bold;
 	color: #000A25;
 	padding: 30px;
 }
