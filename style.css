@@ -44,7 +44,14 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 
 h1 {
 	font-size: 1.5em;
-	font-weight: 1000;
+	font-style: bold;
 	color: #000A25;
-	position: center;
+	padding: 30px;
+}
+
+h2 {
+	font-size: 1em;
+	font-stlye: bold;
+	color: #000A25;
+	padding: 30px;
 }
