@@ -1,0 +1,126 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+border:0;
+font:inherit;
+font-size:100%;
+margin:0;
+padding:0;
+vertical-align:baseline;
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
+display:block;
+}
+
+html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 16px; color: #000A25;}
+
+#banner {
+	width: 90%;
+	max-width: 1063px;
+	margin: auto;
+}
+
+#bannerNames {
+	float: left;
+}
+
+#bannerDetails {
+	float: right;
+}
+
+#usedSpace {
+	width: 90%;
+	max-width: 1063px;
+	background: #4C5366;
+	margin: auto;
+}
+
+#photos	 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+}
+
+#photos img {
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 2px solid #F64462;
+	margin: 2px;
+
+}
+
+#aboutMe {
+	text-align: center;
+}
+
+#interest {
+	text-align: center;
+	padding: 0 30px 0 30px;
+}
+
+#ideal h1, h2 {
+	text-align: center;
+	line-height: 30px;
+}
+
+#ideal img {
+	float: left;
+	border: 2px solid #F64462;
+	border-radius: 20px;
+	margin: 0 30px 0 30px;
+}
+
+.right h3 {
+	font-size: 1.5em;
+	font-weight: bold;
+	padding: 10px 0 0 0;
+}
+
+.right p {
+	padding: 15px 30px 0 10px;
+}
+
+.mid h3 {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px 0 0 0;
+}
+
+.mid p {
+	text-align: center;
+	padding: 15px 30px 5px 30px;
+}
+
+#project {
+	text-align: center;
+	padding: 0 30px 0 30px;
+}
+
+#project h3 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 10px 0 0 0;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bolder;
+	text-align: center;
+}
+
+p {
+	padding: 8px;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-style: italic;
+	padding: 0 0 20px 0;
+}
+
+section {
+	border-top: 1px solid #F3F4F6;
+	padding: 20px 0 20px 0;
+}
