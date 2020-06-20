@@ -77,6 +77,10 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 	text-align: center;
 }
 
+#aboutMe p {
+	padding: 4px;
+}
+
 #interest {
 	text-align: center;
 	padding: 0 30px 0 30px;
@@ -96,6 +100,20 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 	border: 2px solid #F64462;
 	border-radius: 20px;
 	margin: 0 30px 0 30px;
+}
+
+#column1 {
+	float: left;
+	padding: 20px 0 10px 350px;
+}
+
+#column2 {
+	float: right;
+	padding: 20px 350px 10px 0;
+}
+
+#why {
+	padding: 110px 0 0 0;
 }
 
 .right h3 {
@@ -137,6 +155,7 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 #myers p {
 	text-align: center;
 	padding: 8px;
+	margin-right: 30px;
 }
 
 #quote p {
@@ -148,19 +167,20 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 	float: right;
 	border: 2px solid #F64462;
 	border-radius: 20px;
-	margin: 90px 30px 0 30px;
+	margin: 60px 30px 0 30px;
 }
 
 #learning h3 {
 	font-size: 1.5em;
 	font-weight: bold;
-	padding: 60px 0 0 0;
+	padding: 25px 0 0 0;
 	text-align: center;
 }
 
 #learning p {
 	text-align: center;
 	padding: 8px;
+	margin-left: 30px;
 }
 
 #project {
@@ -177,6 +197,38 @@ html {background: #19223A; font-family: 'Yu Gothic Medium', Calibri; font-size: 
 
 #project p {
 	padding: 8px;
+}
+
+#bigFive img {
+	float: left;
+	border: 2px solid #F64462;
+	border-radius: 20px;
+	margin: 20px 10px 20px 45px;
+}
+
+#bigFive1 img {
+	float: right;
+	border: 2px solid #F64462;
+	border-radius: 20px;
+	margin: 20px 45px 20px 10px;
+}
+
+.bigFiveTest h3 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 10px 0 0 0;
+}
+
+.bigFiveTest p {
+	text-align: center;
+	padding: 8px;
+	margin: 0 30px 0 30px;
+}
+
+#firstP p {
+	text-align: center;
+	margin: 280px 30px 0 30px;
 }
 
 h1 {
