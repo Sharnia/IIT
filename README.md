@@ -11,3 +11,5 @@ References
 [5]"W3.CSS Home", W3schools.com, 2020. [Online]. Available: https://www.w3schools.com/w3css/. [Accessed: 20- Jun- 2020].
 
 [6]"Coolors - The super fast color schemes generator!", Coolors.co, 2020. [Online]. Available: https://coolors.co/. [Accessed: 20- Jun- 2020].
+
+[7]"The Big Five Personality Test", Truity, 2020. [Online]. Available: https://www.truity.com/test/big-five-personality-test. [Accessed: 20- Jun- 2020].
